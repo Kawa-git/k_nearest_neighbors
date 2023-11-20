@@ -1,6 +1,5 @@
 # K-Nearest Neighbors
 
-## KNN
 You can use this script to classify a point in a graph
 
 ## Installation:
